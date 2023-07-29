@@ -1,0 +1,3 @@
+-rw-rw-rw- 1 codespace root 471K Jun 25 07:53 ./Cases.zip
+-rw-r--r-- 1 codespace codespace 154K May  4  2016 ./Cases/case_1503_closed.txt
+-rw-r--r-- 1 codespace codespace 132K May  4  2016 ./Cases/case_1995_open.txt
