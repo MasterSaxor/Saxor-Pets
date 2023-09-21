@@ -1,5 +1,6 @@
-# Demonstrates multiple (identical) function calls
+# Demonstrates a while loop, counting down
 
-print("meow")
-print("meow")
-print("meow")
+i = 3
+while i != 0:
+    print("meow")
+    i = i - 1
